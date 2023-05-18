@@ -1,0 +1,6 @@
+author: FlxwDNS
+api-version: 1.19
+description: A BackendApi for Spigot
+main: de.flxwdns.spigothelper.SpigotHelper
+version: 1.0
+name: SpigotHelper
